@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\judge\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\judge\\.nuget\\packages",
+      "G:\\Visual studio SDK\\NuGetPackages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
